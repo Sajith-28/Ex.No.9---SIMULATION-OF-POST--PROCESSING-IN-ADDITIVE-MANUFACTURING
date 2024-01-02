@@ -110,9 +110,3 @@ Procedure for heat treatment
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
-
-### Name:SAJITH AHAMED F
-### Register Number:23000083
-
-## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
